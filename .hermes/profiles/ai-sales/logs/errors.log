@@ -1,5 +1,0 @@
-2026-07-13 14:32:14,482 WARNING hermes.security_audit: Security posture audit found 2 issue(s) — review your deployment:
-2026-07-13 14:32:14,482 WARNING hermes.security_audit:   [security 1/2] Running as ROOT. The agent's terminal/file tools execute with full root privileges — a single prompt-injection or exposed endpoint is a full host compromise. Run Hermes as an unprivileged user (or in a sandboxed terminal backend / container with a non-root user).
-2026-07-13 14:32:14,482 WARNING hermes.security_audit:   [security 2/2] SSH password authentication is ENABLED (default — no explicit directive). Password auth is brute-forceable and dangerous on an internet-facing box. Set 'PasswordAuthentication no' in sshd_config and use key-based auth.
-2026-07-13 14:32:15,149 WARNING gateway.run: No env user allowlists configured. Messaging platforms default to pairing/allowlist policies and will deny unknown senders unless you configure platform allowlists (e.g., TELEGRAM_ALLOWED_USERS=your_id) or explicitly opt in with GATEWAY_ALLOW_ALL_USERS=true plus dm_policy/group_policy: open on the platform.
-2026-07-13 14:32:15,156 WARNING gateway.run: No messaging platforms enabled.

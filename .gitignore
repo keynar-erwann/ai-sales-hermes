@@ -6,5 +6,9 @@ venv/
 .env
 pycache/
 *.pyc
-.DS_Store
-EOF
+.DS_StoreEOF
+.hermes/.hermes_history
+.hermes/state.db
+.hermes/state.db-wal
+.hermes/whatsapp/session/
+.trae

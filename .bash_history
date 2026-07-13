@@ -105,3 +105,46 @@ cd workspace
 cd scripts
 ls
 python3 run_daily.py
+cd .hermes/profiles
+cd /ai-sales/workspace/scripts
+cd ai-sales/workspace/scripts
+ls
+nohup python3 run_daily.py 
+tail -f nohup.out
+cat nohup.out
+clear
+cd -
+cd-
+cd 
+clea
+clear
+git init
+git add README.md
+touch README.md
+git add README.md
+git branch -M main
+git add .
+git commit -m "Projet Complet"
+git remote add origin https://github.com/keynar-erwann/ai-sales-hermes.git
+git push -u origin main
+rm -rf .git
+clear
+git init
+git branch -M main
+git branch -m main
+git add .
+git commit -m "Projet Complet" 
+git push -u main
+git remote add origin https://github.com/keynar-erwann/ai-sales-hermes.git
+git push -u main
+git push -u origin main
+clear
+git status
+git add .
+git commit -m "Correction du projet"
+git push origin main
+hermes 
+fg
+hermes --continue
+clear
+hermes 
