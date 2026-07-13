@@ -1,0 +1,16 @@
+0 verbose cli /root/.hermes/node/bin/node /root/.hermes/node/bin/npm
+1 info using npm@10.9.8
+2 info using node@v22.23.1
+3 silly config load:file:/root/.hermes/node/lib/node_modules/npm/npmrc
+4 silly config load:file:/root/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm prefix
+7 verbose argv "prefix" "--global"
+8 verbose logfile logs-max:10 dir:/root/.npm/_logs/2026-07-07T20_49_13_761Z-
+9 verbose logfile /root/.npm/_logs/2026-07-07T20_49_13_761Z-debug-0.log
+10 verbose cwd /usr/local/lib/hermes-agent/node_modules/agent-browser
+11 verbose os Linux 7.0.0-15-generic
+12 verbose node v22.23.1
+13 verbose npm  v10.9.8
+14 verbose exit 0
+15 info ok

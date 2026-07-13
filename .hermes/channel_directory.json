@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-07-09T03:16:13.660492",
+  "platforms": {
+    "telegram": [],
+    "discord": [],
+    "whatsapp": [
+      {
+        "id": "87441725743196@lid",
+        "name": "Keynar",
+        "type": "dm",
+        "thread_id": null
+      }
+    ],
+    "whatsapp_cloud": [],
+    "slack": [],
+    "signal": [],
+    "mattermost": [],
+    "matrix": [],
+    "homeassistant": [],
+    "email": [],
+    "sms": [],
+    "dingtalk": [],
+    "msgraph_webhook": [],
+    "feishu": [],
+    "wecom": [],
+    "wecom_callback": [],
+    "weixin": [],
+    "bluebubbles": [],
+    "qqbot": [],
+    "yuanbao": [],
+    "relay": [],
+    "google_chat": [],
+    "irc": [],
+    "line": [],
+    "ntfy": [],
+    "photon": [],
+    "raft": [],
+    "simplex": [],
+    "teams": []
+  }
+}

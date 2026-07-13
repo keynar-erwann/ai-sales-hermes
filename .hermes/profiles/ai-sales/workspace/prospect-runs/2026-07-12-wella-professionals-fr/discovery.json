@@ -1,0 +1,1873 @@
+[
+  {
+    "candidate_id": "cand_155231a8a3",
+    "company": {
+      "name": "Fabio Salsa",
+      "domain": "fabiosalsa.com",
+      "website": "https://www.fabiosalsa.com/salon-3310/salon/32-rue-saint-denis-92700-colombes",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment C — Groupe ou réseau de salons",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/821632352",
+        "https://www.fabiosalsa.com/salon-3310/salon/32-rue-saint-denis-92700-colombes"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, blond; services/mentions soin/lissage: soin, soins, réparation; positionnement expert/premium: expert, expertise, sur-mesure; signal formation/academy: formation",
+      "source_url": "https://www.fabiosalsa.com/salon-3310/salon/32-rue-saint-denis-92700-colombes",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de standardiser les produits, la formation et la qualité entre plusieurs salons ou une marque de réseau.",
+    "score": {
+      "fit": 5,
+      "intent": 5,
+      "timing": 3.0,
+      "total": 4.6,
+      "reason": "Fit 5/5 car segment c — groupe ou réseau de salons avec signal public; intent 5/5 basé sur services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, blond; services/mentions soin/lissage: soin, soins, réparation; positionnement expert; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:40:54.447619+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "brand": "Fabio Salsa",
+        "check_date": "2026-07-04",
+        "contact:facebook": "100064381794517",
+        "female": "yes",
+        "male": "yes",
+        "name": "Fabio Salsa",
+        "opening_hours": "Tu-Fr 10:00-19:00; Sa 09:00-19:00; Su,Mo off",
+        "panoramax": "3a18b441-739b-4f9e-824b-4b992d5e10f6;086b95b1-f6d8-4c67-a73a-21b50d18f572",
+        "phone": "+33 1 42 42 09 94",
+        "ref:FR:SIRET": "78953130800250",
+        "shop": "hairdresser",
+        "website": "https://www.fabiosalsa.com/salon-3310/salon/32-rue-saint-denis-92700-colombes",
+        "wheelchair": "yes"
+      },
+      "page_title": "Fabio Salsa | Coiffeur Expert - Fabio Salsa Colombes 32 Rue Saint Denis",
+      "meta_description": "Votre salon de coiffure Fabio Salsa Colombes 32 Rue Saint Denis vous propose des services adaptés aux exigences de toutes natures de cheveux même les plus spécifiques. Découvrez nos expertises en salon.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "blond"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "réparation"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "sur-mesure"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_7290be4db9",
+    "company": {
+      "name": "Bonhomme",
+      "domain": "bonhomme.com",
+      "website": "https://www.bonhomme.com/salon/nantes/",
+      "city": "Nantes",
+      "address": "Nantes",
+      "segment": "Segment C — Groupe ou réseau de salons",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2260735454",
+        "https://www.bonhomme.com/salon/nantes/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration; services/mentions balayage/blond: ombre; services/mentions soin/lissage: soin, soins, traitement; positionnement expert/premium: expert, expertise, maison; signal formation/academy: formation",
+      "source_url": "https://www.bonhomme.com/salon/nantes/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de standardiser les produits, la formation et la qualité entre plusieurs salons ou une marque de réseau.",
+    "score": {
+      "fit": 5,
+      "intent": 4.9,
+      "timing": 3.0,
+      "total": 4.56,
+      "reason": "Fit 5/5 car segment c — groupe ou réseau de salons avec signal public; intent 4.9/5 basé sur services/mentions coloration: coloration; services/mentions balayage/blond: ombre; services/mentions soin/lissage: soin, soins, traitement; positionnement expert/premium: expert, e; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:42.985497+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "branch": "Nantes",
+        "brand": "Bonhomme",
+        "check_date": "2025-08-12",
+        "check_date:opening_hours": "2025-08-12",
+        "contact:email": "nantes@bonhomme.com",
+        "contact:housenumber": "10",
+        "contact:phone": "+33 2 51 83 85 70",
+        "contact:street": "Rue des Halles",
+        "contact:website": "https://www.bonhomme.com/salon/nantes/",
+        "male": "yes",
+        "name": "Bonhomme",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00",
+        "ref:FR:NAF": "96.02A",
+        "ref:FR:SIREN": "831943287",
+        "ref:FR:SIRET": "83194328700027",
+        "shop": "hairdresser",
+        "source": "INSEE - 2025-07",
+        "wheelchair": "limited"
+      },
+      "page_title": "BONHOMME NANTES | Barbier - Coiffeur pour homme",
+      "meta_description": "Découvrez notre barber shop / salon de coiffure pour homme à Nantes.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration"
+        ],
+        "balayage_blond": [
+          "ombre"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "traitement"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "maison"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_f0d1ad434f",
+    "company": {
+      "name": "Célestine",
+      "domain": "eidfbat.wordpress.com",
+      "website": "https://eidfbat.wordpress.com/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/1375716151",
+        "https://eidfbat.wordpress.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage; services/mentions soin/lissage: soin, soins, réparation, lissage; positionnement expert/premium: expert, luxe; signal formation/academy: formation",
+      "source_url": "https://eidfbat.wordpress.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 5,
+      "timing": 3.0,
+      "total": 4.55,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 5/5 basé sur services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage; services/mentions soin/lissage: soin, soins, réparation, lissage; positionnement expe; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:02.213015+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-10-29",
+        "female": "yes",
+        "male": "yes",
+        "name": "Célestine",
+        "opening_hours": "Mo-Sa 09:30-19:00",
+        "phone": "+33 1 48767374",
+        "shop": "hairdresser",
+        "website": "https://eidfbat.wordpress.com/",
+        "wheelchair": "no"
+      },
+      "page_title": "01 48 76 73 74  – celestine.coiffure@gmail.com",
+      "meta_description": "Bienvenue chez Célestine Coiffure à Fontenay-sous-Bois Découvrez l'art de la coiffure dans un cadre élégant et accueillant Qui sommes-nous ? Chez Célestine Coiffure, nous nous engageons à offrir une expérience de coiffure exceptionnelle à nos clients. Notre équipe de coiffeurs talentueux et passionnés est dédiée à vous offrir des services de haute qualité dans un…",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "réparation",
+          "lissage",
+          "botox capillaire",
+          "traitement"
+        ],
+        "premium": [
+          "expert",
+          "luxe"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_713233955b",
+    "company": {
+      "name": "Salon Hanna",
+      "domain": "salonhanna.fr",
+      "website": "https://salonhanna.fr/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment B — Studio coloriste / expert blond et balayage",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/1528972873",
+        "https://salonhanna.fr/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, coloriste; services/mentions balayage/blond: balayage, ombre, mèches; services/mentions soin/lissage: soin, soins, kératine, lissage; positionnement expert/premium: expert, expertise; signal formation/academy: formation",
+      "source_url": "https://salonhanna.fr/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 5,
+      "timing": 3.0,
+      "total": 4.55,
+      "reason": "Fit 4.9/5 car segment b — studio coloriste / expert blond et balayage avec signal public; intent 5/5 basé sur services/mentions coloration: coloration, couleur, coloriste; services/mentions balayage/blond: balayage, ombre, mèches; services/mentions soin/lissage: soin, soins, kératine, liss; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:08.330009+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "contact:city": "Courbevoie",
+        "contact:facebook": "https://www.facebook.com/salonhannaofficiel",
+        "contact:housenumber": "12",
+        "contact:phone": "+33 6 59 55 07 17",
+        "contact:postcode": "92400",
+        "contact:street": "Rue Gaultier",
+        "female": "yes",
+        "male": "yes",
+        "name": "Salon Hanna",
+        "opening_hours": "Tu-Sa 09:30-19:00",
+        "shop": "hairdresser",
+        "website": "https://salonhanna.fr/"
+      },
+      "page_title": "Salon Hanna",
+      "meta_description": "Salon Hanna est un salon de coiffure situé dans les Hauts-de-Seine, à Courbevoie, à proximité de la Gare de Courbevoie et à quelques minutes de La Défense.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "coloriste"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "ombre",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "kératine",
+          "lissage"
+        ],
+        "premium": [
+          "expert",
+          "expertise"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_f520b9045d",
+    "company": {
+      "name": "Beauty Zen",
+      "domain": "beauty-zen.fr",
+      "website": "https://beauty-zen.fr/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/1800360010",
+        "https://beauty-zen.fr/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: couleur, coloriste; services/mentions balayage/blond: balayage; services/mentions soin/lissage: soin, soins, lissage; positionnement expert/premium: expert, expertise, studio, sur mesure; signal formation/academy: formateur",
+      "source_url": "https://beauty-zen.fr/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 5,
+      "timing": 3.0,
+      "total": 4.55,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 5/5 basé sur services/mentions coloration: couleur, coloriste; services/mentions balayage/blond: balayage; services/mentions soin/lissage: soin, soins, lissage; positionnement expert/premium: e; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:11.067534+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2024-04-17",
+        "email": "beautyzen13@gmail.com",
+        "female": "yes",
+        "male": "yes",
+        "name": "Beauty Zen",
+        "opening_hours": "Tu-Th 09:30-19:00, Fr 09:30-20:00, Sa 09:00-18:00",
+        "phone": "+33 1 45 89 83 83",
+        "shop": "hairdresser",
+        "website": "https://www.beauty-zen.fr/",
+        "wheelchair": "limited"
+      },
+      "page_title": "LE SALON - Beauty-Zen",
+      "meta_description": "Chez Beauty Zen, nous croyons au concept de la beauté durable.",
+      "keyword_hits": {
+        "coloration": [
+          "couleur",
+          "coloriste"
+        ],
+        "balayage_blond": [
+          "balayage"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "lissage"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "studio",
+          "sur mesure"
+        ],
+        "formation": [
+          "formateur"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_0d97bcbbdb",
+    "company": {
+      "name": "Bons Plans Coiffure",
+      "domain": "bonsplans-coiffure.fr",
+      "website": "https://bonsplans-coiffure.com/",
+      "city": "Haubourdin",
+      "address": "Haubourdin, 23, 59320, Rue Sadi Carnot",
+      "segment": "Segment C — Groupe ou réseau de salons",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/724228911",
+        "https://bonsplans-coiffure.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, blond, ombre, mèches; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise; signal formation/academy: formation",
+      "source_url": "https://bonsplans-coiffure.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de standardiser les produits, la formation et la qualité entre plusieurs salons ou une marque de réseau.",
+    "score": {
+      "fit": 4.9,
+      "intent": 5,
+      "timing": 3.0,
+      "total": 4.55,
+      "reason": "Fit 4.9/5 car segment c — groupe ou réseau de salons avec signal public; intent 5/5 basé sur services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, blond, ombre, mèches; services/mentions soin/lissage: soin, soins; positionnement exp; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:17.902058+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Haubourdin",
+        "addr:housenumber": "23",
+        "addr:postcode": "59320",
+        "addr:street": "Rue Sadi Carnot",
+        "check_date": "2026-01-25",
+        "female": "yes",
+        "male": "yes",
+        "name": "Bons Plans Coiffure",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off",
+        "phone": "+33 320 539 040",
+        "ref:FR:SIRET": "93539311600014",
+        "reservation": "yes",
+        "reservation:website": "https://bonsplans-coiffure.com/rendez-vous/",
+        "shop": "hairdresser",
+        "website": "https://www.bonsplans-coiffure.fr",
+        "wheelchair": "yes"
+      },
+      "page_title": "Salons Bons Plans Coiffure - Révélez votre style",
+      "meta_description": "BONS PLANS COIFFURE regroupe 3 salons à proximité de chez vous : Lomme (Lille/Lambersart), Wambrechies, Haubourdin. RDV en ligne.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "blond",
+          "ombre",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins"
+        ],
+        "premium": [
+          "expert",
+          "expertise"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_35e80015c1",
+    "company": {
+      "name": "Pause Coiffure - Coiffeur Vertou",
+      "domain": "moncoiffeur.fr",
+      "website": "https://www.moncoiffeur.fr/coiffeur/pause-coiffure-vertou",
+      "city": "Nantes",
+      "address": "Nantes",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2695164092",
+        "https://www.moncoiffeur.fr/coiffeur/pause-coiffure-vertou"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, gloss, patine; services/mentions balayage/blond: balayage, ombré, mèches; services/mentions soin/lissage: soin, soins, lissage; positionnement expert/premium: expert, expertise, sur mesure, diagnostic; signal formation/academy: formation",
+      "source_url": "https://www.moncoiffeur.fr/coiffeur/pause-coiffure-vertou",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 5,
+      "timing": 3.0,
+      "total": 4.55,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 5/5 basé sur services/mentions coloration: coloration, couleur, gloss, patine; services/mentions balayage/blond: balayage, ombré, mèches; services/mentions soin/lissage: soin, soins, lissage; p; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:45.199163+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "contact:city": "Vertou",
+        "contact:housenumber": "81",
+        "contact:phone": "+33 2 40 34 56 02",
+        "contact:postcode": "44120",
+        "contact:street": "Route De Nantes",
+        "female": "yes",
+        "male": "yes",
+        "name": "Pause Coiffure - Coiffeur Vertou",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-17:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "ref:FR:NAF": "96.02A",
+        "ref:FR:SIREN": "911124428",
+        "ref:FR:SIRET": "91112442800028",
+        "shop": "hairdresser",
+        "source": "INSEE - 2025-08",
+        "website": "https://www.moncoiffeur.fr/coiffeur/pause-coiffure-vertou",
+        "wheelchair": "limited"
+      },
+      "page_title": "Coiffeur Vertou – Coupe, Couleur, Balayage | Pause Coiffure",
+      "meta_description": "Pause Coiffure à Vertou vous accueille pour coupe, couleur, balayage et soins capillaires. Coiffeuses expertes, conseils personnalisés et réservation en ligne. Salon de coiffure à Vertou proche Nantes.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "gloss",
+          "patine"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "ombré",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "lissage"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "sur mesure",
+          "diagnostic"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_f111088227",
+    "company": {
+      "name": "Mod's Hair",
+      "domain": "modshair.com",
+      "website": "https://www.modshair.com",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/664799978",
+        "https://www.modshair.com"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: couleur, gloss; services/mentions balayage/blond: balayage, ombre; services/mentions soin/lissage: soin; positionnement expert/premium: studio, maison; signal formation/academy: formation",
+      "source_url": "https://www.modshair.com",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 4.8,
+      "timing": 3.0,
+      "total": 4.48,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 4.8/5 basé sur services/mentions coloration: couleur, gloss; services/mentions balayage/blond: balayage, ombre; services/mentions soin/lissage: soin; positionnement expert/premium: studio, maison; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:40:52.566910+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "check_date:opening_hours": "2024-10-18",
+        "female": "yes",
+        "male": "yes",
+        "name": "Mod's Hair",
+        "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:30; PH,Su off",
+        "opening_hours:signed": "no",
+        "phone": "+33 1 40 93 53 53",
+        "ref:FR:SIRET": "84768113700018",
+        "shop": "hairdresser",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "website": "https://www.modshair.com"
+      },
+      "page_title": "Donnez du style à votre beauté | mod's hair",
+      "meta_description": "Créateurs du métier de coiffeurs studio et du fameux \"coiffé-décoiffé\" il y a 45 ans. Au service de votre beauté pour un style indémodable, chic et glamour.",
+      "keyword_hits": {
+        "coloration": [
+          "couleur",
+          "gloss"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "ombre"
+        ],
+        "soin": [
+          "soin"
+        ],
+        "premium": [
+          "studio",
+          "maison"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_139993bed4",
+    "company": {
+      "name": "Shampoo Expert",
+      "domain": "shampoo.fr",
+      "website": "https://www.shampoo.fr/salon/v2/",
+      "city": "Lille",
+      "address": "Lille",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/9344991568",
+        "https://www.shampoo.fr/salon/v2/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: couleur; services/mentions balayage/blond: balayage, ombre; services/mentions soin/lissage: soin; positionnement expert/premium: expert, maison, diagnostic; signal formation/academy: formation",
+      "source_url": "https://www.shampoo.fr/salon/v2/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 4.8,
+      "timing": 3.0,
+      "total": 4.48,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 4.8/5 basé sur services/mentions coloration: couleur; services/mentions balayage/blond: balayage, ombre; services/mentions soin/lissage: soin; positionnement expert/premium: expert, maison, diagn; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:29.008199+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "currency:EUR": "yes",
+        "level": "1",
+        "name": "Shampoo Expert",
+        "opening_hours": "Mo-Sa 09:00-20:30",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "phone": "+33 3 20 91 33 32",
+        "shop": "hairdresser",
+        "stroller": "yes",
+        "unisex": "yes",
+        "website": "https://www.shampoo.fr/salon/v2/",
+        "wheelchair": "yes"
+      },
+      "page_title": "VILLENEUVE D'ASCQ - V2 - Shampoo Expert",
+      "meta_description": "",
+      "keyword_hits": {
+        "coloration": [
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "ombre"
+        ],
+        "soin": [
+          "soin"
+        ],
+        "premium": [
+          "expert",
+          "maison",
+          "diagnostic"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_e0736960f1",
+    "company": {
+      "name": "La Maison du Coiffeur",
+      "domain": "la-maison-du-coiffeur.com",
+      "website": "https://la-maison-du-coiffeur.com/",
+      "city": "Nantes",
+      "address": "Nantes",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/1226122369",
+        "https://la-maison-du-coiffeur.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, mèches; services/mentions soin/lissage: soin, lissage; positionnement expert/premium: maison; signal formation/academy: formation",
+      "source_url": "https://la-maison-du-coiffeur.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 4.8,
+      "timing": 3.0,
+      "total": 4.48,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 4.8/5 basé sur services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, mèches; services/mentions soin/lissage: soin, lissage; positionnement expert/premium:; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:39.057556+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2025-12-21",
+        "check_date:opening_hours": "2025-12-21",
+        "contact:email": "salonlamaisonducoiffeur@gmail.com",
+        "contact:housenumber": "13",
+        "contact:street": "Quai de la Fosse",
+        "female": "yes",
+        "male": "yes",
+        "name": "La Maison du Coiffeur",
+        "opening_hours": "Mo 12:30-18:00; Tu-Sa 09:00-19:00",
+        "opening_hours:signed": "no",
+        "phone": "+33 2 40 69 51 78",
+        "ref:FR:NAF": "96.02A",
+        "ref:FR:SIREN": "415074525",
+        "ref:FR:SIRET": "41507452500015",
+        "shop": "hairdresser",
+        "source:ref": "INSEE - 2025-08",
+        "website": "https://la-maison-du-coiffeur.com/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Bouton d'appel à droite de l'entrée pour demander l'installation d'une rampe. 1 marche à passer"
+      },
+      "page_title": "COIFFEUR NANTES HOMME FEMME ⋆ Maison du coiffeur",
+      "meta_description": "COIFFEUR NANTES HOMME FEMME.Un salon de coiffure intimiste pour révéler votre beauté.Spécialiste techniques Anglo-saxonnes, .Couleurs, lissage...",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "lissage"
+        ],
+        "premium": [
+          "maison"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_28b3352bf6",
+    "company": {
+      "name": "Biocoiff",
+      "domain": "biocoiff.com",
+      "website": "https://www.biocoiff.com/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2216215927",
+        "https://www.biocoiff.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, coloriste, coloristes; services/mentions balayage/blond: balayage, mèches; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise, sur-mesure, diagnostic; signal formation/academy: formation",
+      "source_url": "https://www.biocoiff.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 5,
+      "timing": 2.5,
+      "total": 4.46,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 5/5 basé sur services/mentions coloration: coloration, couleur, coloriste, coloristes; services/mentions balayage/blond: balayage, mèches; services/mentions soin/lissage: soin, soins; positionn; timing 2.5/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:16.446826+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "name": "Biocoiff",
+        "shop": "hairdresser",
+        "source": "http://www.biocoiff.com/",
+        "website": "http://www.biocoiff.com/"
+      },
+      "page_title": "Biocoiff' : coiffeur bio spécialiste en colorations végétales depuis 2005",
+      "meta_description": "Sublimez vos cheveux des racines jusqu'aux pointes grâce à la coloration végétale by Biocoiff'. Coiffeur bio depuis 2005. Diagnostic Gratuit.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "coloriste",
+          "coloristes"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "sur-mesure",
+          "diagnostic"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_10366f4b4a",
+    "company": {
+      "name": "Mathis",
+      "domain": "salon-mathis.com",
+      "website": "https://www.salon-mathis.com/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2403668712",
+        "https://www.salon-mathis.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, ombré; services/mentions soin/lissage: soin, soins, réparation; positionnement expert/premium: diagnostic; signal formation/academy: formation",
+      "source_url": "https://www.salon-mathis.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 4.9,
+      "timing": 2.6,
+      "total": 4.44,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 4.9/5 basé sur services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, ombré; services/mentions soin/lissage: soin, soins, réparation; positionnement expert; timing 2.6/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:19.822477+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "contact:city": "Clamart",
+        "contact:housenumber": "4",
+        "contact:phone": "+33 1 46 42 40 96",
+        "contact:postcode": "92140",
+        "contact:street": "Rue Hébert",
+        "name": "Mathis",
+        "official_name": "Mathis",
+        "opening_hours": "Tu-We 09:30-19:00; Th 10:30-20:00; Fr-Sa 09:30-19:00",
+        "ref:FR:SIRET": "49359386700010",
+        "shop": "hairdresser",
+        "source": "survey",
+        "website": "http://www.salon-mathis.com/"
+      },
+      "page_title": "Salon MATHIS",
+      "meta_description": "Salon MATHIS , situé à l",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "ombré"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "réparation"
+        ],
+        "premium": [
+          "diagnostic"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_5f888307bb",
+    "company": {
+      "name": "Couleurs Gaïa",
+      "domain": "salons.couleursgaia.com",
+      "website": "https://salons.couleursgaia.com/salon/paris",
+      "city": "Paris",
+      "address": "Paris, 15, 75012, Rue Parrot",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/534914169",
+        "https://salons.couleursgaia.com/salon/paris"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, coloriste; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise, sur-mesure; signal formation/academy: formation, formatrice",
+      "source_url": "https://salons.couleursgaia.com/salon/paris",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 4.4,
+      "timing": 3.0,
+      "total": 4.35,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 4.4/5 basé sur services/mentions coloration: coloration, couleur, coloriste; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise, sur-mesure; signal form; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:40:49.797610+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Paris",
+        "addr:housenumber": "15",
+        "addr:postcode": "75012",
+        "addr:street": "Rue Parrot",
+        "email": "salon.paris@couleursgaia.com",
+        "female": "yes",
+        "name": "Couleurs Gaïa",
+        "opening_hours": "We-Fr 09:00-19:00; Sa 08:30-16:00",
+        "phone": "+33 143 07 90 02",
+        "shop": "hairdresser",
+        "website": "https://salons.couleursgaia.com/salon/paris"
+      },
+      "page_title": "Salon de Coiffure à Paris 12 – Coloration Végétale Couleurs Gaïa",
+      "meta_description": "Salon Couleurs Gaïa à Paris 12 : spécialiste en coloration 100% végétale et soins capillaires bio. Produits naturels et bien-être pour vos cheveux.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "coloriste"
+        ],
+        "balayage_blond": [],
+        "soin": [
+          "soin",
+          "soins"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "sur-mesure"
+        ],
+        "formation": [
+          "formation",
+          "formatrice"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_63d52fa464",
+    "company": {
+      "name": "Franck Provost",
+      "domain": "franckprovost.com",
+      "website": "https://www.franckprovost.com",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment C — Groupe ou réseau de salons",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/1113739055",
+        "https://www.franckprovost.com"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, gloss; services/mentions balayage/blond: balayage, blond, blonde, ombré; services/mentions soin/lissage: soin, soins, botox capillaire; signal formation/academy: academy",
+      "source_url": "https://www.franckprovost.com",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de standardiser les produits, la formation et la qualité entre plusieurs salons ou une marque de réseau.",
+    "score": {
+      "fit": 4.4,
+      "intent": 4.9,
+      "timing": 3.0,
+      "total": 4.29,
+      "reason": "Fit 4.4/5 car segment c — groupe ou réseau de salons avec signal public; intent 4.9/5 basé sur services/mentions coloration: coloration, couleur, gloss; services/mentions balayage/blond: balayage, blond, blonde, ombré; services/mentions soin/lissage: soin, soins, botox capil; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:01.366462+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "addr:floor": "0",
+        "brand": "Franck Provost",
+        "brand:wikidata": "Q62805922",
+        "brand:wikipedia": "fr:Franck Provost (Salons de coiffure)",
+        "check_date": "2025-10-10",
+        "check_date:opening_hours": "2024-12-14",
+        "female": "yes",
+        "level": "0",
+        "male": "yes",
+        "name": "Franck Provost",
+        "opening_hours": "Tu,We,Fr 09:30-19:00; Mo 10:00-19:00; Th 11:00-20:30; Sa 09:00-19:00",
+        "phone": "+33 1 45 67 21 46",
+        "shop": "hairdresser",
+        "website": "https://www.franckprovost.com",
+        "wheelchair": "yes"
+      },
+      "page_title": "Coiffeur Franck Provost - Provocateur de confiance",
+      "meta_description": "Franck Provost invite les femmes à reprendre le pouvoir, reboostées. Rendez-vous chez votre coiffeur Franck Provost, Provocateur de confiance.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "gloss"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "blond",
+          "blonde",
+          "ombré"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "botox capillaire"
+        ],
+        "premium": [],
+        "formation": [
+          "academy"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_c99f070b77",
+    "company": {
+      "name": "Dessange",
+      "domain": "salon.dessange.com",
+      "website": "https://salon.dessange.com/fr/salon-coiffure/lille-esquermoise",
+      "city": "Lille",
+      "address": "Lille",
+      "segment": "Segment C — Groupe ou réseau de salons",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/4846431899",
+        "https://salon.dessange.com/fr/salon-coiffure/lille-esquermoise"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, ombre; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise, maison, luxe",
+      "source_url": "https://salon.dessange.com/fr/salon-coiffure/lille-esquermoise",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de standardiser les produits, la formation et la qualité entre plusieurs salons ou une marque de réseau.",
+    "score": {
+      "fit": 4.6,
+      "intent": 4.6,
+      "timing": 3.0,
+      "total": 4.28,
+      "reason": "Fit 4.6/5 car segment c — groupe ou réseau de salons avec signal public; intent 4.6/5 basé sur services/mentions coloration: coloration, couleur; services/mentions balayage/blond: balayage, ombre; services/mentions soin/lissage: soin, soins; positionnement expert/premium: ex; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:23.990118+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "brand": "Dessange",
+        "brand:wikidata": "Q62979914",
+        "contact:city": "Lille",
+        "contact:housenumber": "22",
+        "contact:phone": "+33 3 20 06 56 06",
+        "contact:postcode": "59800",
+        "contact:street": "Rue Esquermoise",
+        "contact:website": "https://salon.dessange.com/salon-coiffure/lille-esquermoise/",
+        "female:signed": "no",
+        "male:signed": "no",
+        "name": "Dessange",
+        "opening_hours": "Tu-Fr 08:30-19:00, Mo 08:30-18:30, Sa 08:00-18:30",
+        "ref:FR:SIRET": "34003627600020",
+        "shop": "hairdresser",
+        "wheelchair": "limited"
+      },
+      "page_title": "Coiffeur Lille-Esquermoise - Salon de Coiffure Lille-Esquermoise DESSANGE",
+      "meta_description": "Salon Dessange",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "ombre"
+        ],
+        "soin": [
+          "soin",
+          "soins"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "maison",
+          "luxe",
+          "sur-mesure"
+        ],
+        "formation": []
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_9fc3df3639",
+    "company": {
+      "name": "Nuances Coiffure",
+      "domain": "nuancescoiffureparis.fr",
+      "website": "https://www.nuancescoiffureparis.fr/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2219981801",
+        "https://www.nuancescoiffureparis.fr/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, colorimétrie; services/mentions balayage/blond: balayage; services/mentions soin/lissage: soin, soins, lissage; positionnement expert/premium: expert, maison, sur-mesure",
+      "source_url": "https://www.nuancescoiffureparis.fr/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de résultats couleur/soin constants, de différenciation salon et de supports techniques/formation Wella.",
+    "score": {
+      "fit": 4.5,
+      "intent": 4.5,
+      "timing": 3.0,
+      "total": 4.2,
+      "reason": "Fit 4.5/5 car segment a — salon premium orienté coloration avec signal public; intent 4.5/5 basé sur services/mentions coloration: coloration, couleur, colorimétrie; services/mentions balayage/blond: balayage; services/mentions soin/lissage: soin, soins, lissage; positionnement ex; timing 3.0/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:16.931767+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-06-27",
+        "female": "yes",
+        "male": "yes",
+        "name": "Nuances Coiffure",
+        "opening_hours": "Tu,We,Fr,Sa 10:00-18:30; Th 11:30-20:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+33 1 45 39 62 19",
+        "shop": "hairdresser",
+        "source": "survey",
+        "website": "https://www.nuancescoiffureparis.fr/",
+        "wheelchair": "yes"
+      },
+      "page_title": "Nuances Coiffure",
+      "meta_description": "Nuances Coiffure, situé à l",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "colorimétrie"
+        ],
+        "balayage_blond": [
+          "balayage"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "lissage"
+        ],
+        "premium": [
+          "expert",
+          "maison",
+          "sur-mesure"
+        ],
+        "formation": []
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_9321a8fc8b",
+    "company": {
+      "name": "Le Labo",
+      "domain": "salonlelabo.com",
+      "website": "https://salonlelabo.com/",
+      "city": "Nantes",
+      "address": "Nantes",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/1898165059",
+        "https://salonlelabo.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise; signal formation/academy: formation",
+      "source_url": "https://salonlelabo.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.9,
+      "intent": 4.2,
+      "timing": 2.6,
+      "total": 4.2,
+      "reason": "Fit 4.9/5 car segment a — salon premium orienté coloration avec signal public; intent 4.2/5 basé sur services/mentions coloration: coloration, couleur; services/mentions soin/lissage: soin, soins; positionnement expert/premium: expert, expertise; signal formation/academy: formatio; timing 2.6/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:42.632632+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "check_date": "2026-05-01",
+        "check_date:opening_hours": "2026-05-01",
+        "contact:facebook": "salonlelabo.nantes",
+        "contact:housenumber": "4",
+        "contact:instagram": "salonlelabo.nantes",
+        "contact:phone": "+33 2 40 69 72 31",
+        "contact:street": "Place Commandant Jean l'Herminier",
+        "contact:website": "https://www.salonlelabo.com/",
+        "description": "Salon spécialiste des cheveux courts et de la barbe, prestations mixtes avec une tarification basée sur la longueur des cheveux",
+        "female": "yes",
+        "male": "yes",
+        "name": "Le Labo",
+        "opening_hours": "Mo,Tu,Th,Fr 09:00-19:00; We 10:00-19:00",
+        "ref:FR:NAF": "96.02A",
+        "ref:FR:SIREN": "910121995",
+        "ref:FR:SIRET": "91012199500013",
+        "shop": "hairdresser",
+        "source:ref:FR": "INSEE - 2025-08",
+        "wheelchair": "limited",
+        "wheelchair:description": "Seuil de 2 cm à l'entrée avec une porte battante ouvrant vers l'intérieur"
+      },
+      "page_title": "Salon Le Labo - Expert des cheveux courts – LE LABO E-shop",
+      "meta_description": "Le Labo, salons experts en coupes courtes et coiffures tendances à Nantes, Vannes et Muzillac. Découvrez nos services personnalisés, tarifs non genrés et une expérience unique dans un cadre moderne. Prenez rendez-vous en ligne dès aujourd'hui pour sublimer vos cheveux courts !",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur"
+        ],
+        "balayage_blond": [],
+        "soin": [
+          "soin",
+          "soins"
+        ],
+        "premium": [
+          "expert",
+          "expertise"
+        ],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_3e4b215fa4",
+    "company": {
+      "name": "Mama Cosy",
+      "domain": "mamacosy.fr",
+      "website": "https://www.mamacosy.fr/",
+      "city": "Fontenay-aux-Roses",
+      "address": "Fontenay-aux-Roses, 1, 92260, Avenue Jeanne et Maurice Dolivet",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2012787524",
+        "https://www.mamacosy.fr/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, gloss, patine; services/mentions balayage/blond: ombre, mèches; services/mentions soin/lissage: soin, soins, lissage, botox capillaire; signal formation/academy: formation",
+      "source_url": "https://www.mamacosy.fr/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de contenus, formation et support technique autour des prestations couleur/soin.",
+    "score": {
+      "fit": 4.3,
+      "intent": 4.9,
+      "timing": 2.6,
+      "total": 4.17,
+      "reason": "Fit 4.3/5 car segment a — salon premium orienté coloration avec signal public; intent 4.9/5 basé sur services/mentions coloration: coloration, couleur, gloss, patine; services/mentions balayage/blond: ombre, mèches; services/mentions soin/lissage: soin, soins, lissage, botox capil; timing 2.6/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:14.351580+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Fontenay-aux-Roses",
+        "addr:housenumber": "1",
+        "addr:postcode": "92260",
+        "addr:street": "Avenue Jeanne et Maurice Dolivet",
+        "check_date": "2026-05-01",
+        "name": "Mama Cosy",
+        "opening_hours": "Tu 09:30-19:00; We 09:30-19:30; Th 09:30-19:00; Fr 09:30-19:30; Sa 09:00-18:30",
+        "phone": "+33147026122",
+        "shop": "hairdresser",
+        "website": "https://www.mamacosy.fr/"
+      },
+      "page_title": "Mama Cosy - 92260 Fontenay-aux-Roses - Un Temps Choisi",
+      "meta_description": "",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "gloss",
+          "patine"
+        ],
+        "balayage_blond": [
+          "ombre",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "lissage",
+          "botox capillaire"
+        ],
+        "premium": [],
+        "formation": [
+          "formation"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_2dad4545f4",
+    "company": {
+      "name": "Leila Coiffure",
+      "domain": "leila-coiffure-paris.com",
+      "website": "https://www.leila-coiffure-paris.com/",
+      "city": "Paris",
+      "address": "Paris",
+      "segment": "Segment A — Salon premium orienté coloration",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/2273127776",
+        "https://www.leila-coiffure-paris.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, coloriste, coloristes, patine; services/mentions balayage/blond: balayage, blond, blonde, ombré; services/mentions soin/lissage: soin, soins, kératine, lissage; positionnement expert/premium: expert, premium, sur-mesure",
+      "source_url": "https://www.leila-coiffure-paris.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de résultats couleur/soin constants, de différenciation salon et de supports techniques/formation Wella.",
+    "score": {
+      "fit": 4.5,
+      "intent": 4.7,
+      "timing": 2.5,
+      "total": 4.17,
+      "reason": "Fit 4.5/5 car segment a — salon premium orienté coloration avec signal public; intent 4.7/5 basé sur services/mentions coloration: coloration, coloriste, coloristes, patine; services/mentions balayage/blond: balayage, blond, blonde, ombré; services/mentions soin/lissage: soin, soi; timing 2.5/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:41:17.874405+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "contact:housenumber": "53",
+        "contact:postcode": "75014",
+        "contact:street": "Rue du Père Corentin",
+        "female": "yes",
+        "name": "Leila Coiffure",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "hairdresser",
+        "website": "https://www.leila-coiffure-paris.com/",
+        "wheelchair": "yes"
+      },
+      "page_title": "Leila Coiffure Paris 14e: Lissage et extension de cheveux Malakoff, Vanves, Gentilly",
+      "meta_description": "Le salon Leila Coiffure, situé au cœur du 14e arrondissement de Paris près de Malakoff, Vanves, Gentilly, est l",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "coloriste",
+          "coloristes",
+          "patine"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "blond",
+          "blonde",
+          "ombré",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "kératine",
+          "lissage"
+        ],
+        "premium": [
+          "expert",
+          "premium",
+          "sur-mesure"
+        ],
+        "formation": []
+      }
+    }
+  },
+  {
+    "candidate_id": "cand_b218c71f68",
+    "company": {
+      "name": "Eva",
+      "domain": "maisondecoiffureeva.com",
+      "website": "https://www.maisondecoiffureeva.com/",
+      "city": "Lille",
+      "address": "Lille, 20, 59800, Rue des Tours",
+      "segment": "Segment B — Studio coloriste / expert blond et balayage",
+      "source_urls": [
+        "https://www.openstreetmap.org/node/10015419106",
+        "https://www.maisondecoiffureeva.com/"
+      ]
+    },
+    "person": {
+      "first_name": "",
+      "last_name": "",
+      "title": "Propriétaire / directeur artistique / responsable salon (à identifier)",
+      "linkedin_url": "",
+      "source_urls": []
+    },
+    "signal": {
+      "type": "website_service_signal",
+      "summary": "services/mentions coloration: coloration, couleur, coloriste; services/mentions balayage/blond: balayage, blond, mèches; services/mentions soin/lissage: soin, soins, lissage; positionnement expert/premium: expert, expertise, maison, sur-mesure",
+      "source_url": "https://www.maisondecoiffureeva.com/",
+      "observed_date": "2026-07-12"
+    },
+    "pain_hypothesis": "Besoin probable de résultats couleur/soin constants, de différenciation salon et de supports techniques/formation Wella.",
+    "score": {
+      "fit": 4.5,
+      "intent": 4.7,
+      "timing": 2.5,
+      "total": 4.17,
+      "reason": "Fit 4.5/5 car segment b — studio coloriste / expert blond et balayage avec signal public; intent 4.7/5 basé sur services/mentions coloration: coloration, couleur, coloriste; services/mentions balayage/blond: balayage, blond, mèches; services/mentions soin/lissage: soin, soins, lissage; posit; timing 2.5/5 car source publique accessible mais récence à confirmer."
+    },
+    "email": {
+      "address": "",
+      "status": "not_found",
+      "hunter_score": null,
+      "hunter_sources": [],
+      "note": "Pas de personne nommée fiable à ce stade ; ne pas deviner."
+    },
+    "proof": {
+      "tools_used": [
+        "OpenStreetMap Overpass",
+        "website_fetch"
+      ],
+      "checked_at": "2026-07-13T18:43:31.182191+00:00",
+      "notes": []
+    },
+    "next_action": "lead_enrichment",
+    "raw": {
+      "osm_tags": {
+        "addr:city": "Lille",
+        "addr:housenumber": "20",
+        "addr:postcode": "59800",
+        "addr:street": "Rue des Tours",
+        "female": "yes",
+        "male": "yes",
+        "name": "Eva",
+        "phone": "+33 3 20 14 96 05",
+        "ref:FR:SIRET": "85390746700023",
+        "shop": "hairdresser",
+        "website": "https://maisondecoiffureeva.com/"
+      },
+      "page_title": "Maison de coiffure Eva | Salon expert coloriste Vieux Lille",
+      "meta_description": "Bienvenue à la Maison de Coiffure Eva, votre salon expert en coloration, coupe et extensions de cheveux à Lille. Découvrez nos services personnalisés dans un cadre raffiné au cœur du Vieux-Lille.",
+      "keyword_hits": {
+        "coloration": [
+          "coloration",
+          "couleur",
+          "coloriste"
+        ],
+        "balayage_blond": [
+          "balayage",
+          "blond",
+          "mèches"
+        ],
+        "soin": [
+          "soin",
+          "soins",
+          "lissage"
+        ],
+        "premium": [
+          "expert",
+          "expertise",
+          "maison",
+          "sur-mesure"
+        ],
+        "formation": []
+      }
+    }
+  }
+]

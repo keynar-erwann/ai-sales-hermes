@@ -1,0 +1,34 @@
+python3 hunter_client.py email-verifier --email kbognar@stripe.com
+{
+  "checked_at": "2026-07-12T01:49:33.213533+00:00",
+  "email": {
+    "accept_all": false,
+    "address": "kbognar@stripe.com",
+    "block": false,
+    "disposable": false,
+    "gibberish": false,
+    "hunter_score": 100,
+    "mx_records": true,
+    "regexp": true,
+    "result": "deliverable",
+    "smtp_check": true,
+    "smtp_server": true,
+    "sources": [
+      {
+        "domain": "linkedin.com",
+        "extracted_on": "2026-04-04",
+        "last_seen_on": "2026-07-07",
+        "still_on_page": true,
+        "uri": "https://www.google.com/search?q=site:linkedin.com%20kevin%20bognar%20stripe"
+      }
+    ],
+    "status": "verified",
+    "webmail": false
+  },
+  "http_status": 200,
+  "ok": true,
+  "operation": "email-verifier",
+  "request": {
+    "email": "kbognar@stripe.com"
+  }
+}

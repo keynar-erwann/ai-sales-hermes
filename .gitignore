@@ -1,0 +1,10 @@
+.trae-server/
+.hermes/bin/
+.hermes/node/
+.cache/
+venv/
+.env
+pycache/
+*.pyc
+.DS_Store
+EOF

@@ -1,0 +1,20 @@
+# Core Hermes Environment Dependencies
+# (Hermes core already includes many standard libraries)
+
+# Email/Outreach
+python-dotenv
+smtplib
+
+# Data Processing
+requests
+pandas
+numpy
+
+# Pipeline Reporting
+json
+os
+datetime
+
+# Validation/Automation
+subprocess
+time

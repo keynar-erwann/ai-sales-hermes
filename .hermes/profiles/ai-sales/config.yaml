@@ -1,0 +1,9 @@
+gateway:
+  slack:
+    webhook_url: https://hooks.slack.com/services/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
+email:
+  smtp:
+    host: sandbox.smtp.mailtrap.io
+    port: 2525
+    user: 708b2104a223afb78b36090cb0464bc6
+    password: 708b2104a223afb78b36090cb0464bc6

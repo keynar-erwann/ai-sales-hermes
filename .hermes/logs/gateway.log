@@ -1,0 +1,30 @@
+2026-07-09 01:07:06,156 INFO gateway.run: Starting Hermes Gateway...
+2026-07-09 01:07:06,156 INFO gateway.run: Session storage: /root/.hermes/sessions
+2026-07-09 01:07:06,159 INFO gateway.run: Agent budget: max_iterations=150 (agent.max_turns from config.yaml, or HERMES_MAX_ITERATIONS from .env, or default 90)
+2026-07-09 01:07:06,159 INFO gateway.run: Secret redaction: ENABLED (tool output, logs, and chat responses are scrubbed before delivery)
+2026-07-09 01:07:06,183 INFO gateway.run: Connecting to whatsapp...
+2026-07-09 01:07:06,193 INFO hermes_plugins.whatsapp_platform.adapter: [Whatsapp] Bridge found at /usr/local/lib/hermes-agent/scripts/whatsapp-bridge/bridge.js
+2026-07-09 01:07:10,583 INFO gateway.run: ✓ whatsapp connected
+2026-07-09 01:07:10,585 INFO gateway.run: Gateway running with 1 platform(s)
+2026-07-09 01:07:10,687 INFO gateway.run: Channel directory built: 0 target(s)
+2026-07-09 01:07:11,696 INFO gateway.run: Press Ctrl+C to stop
+2026-07-09 01:07:11,763 INFO gateway.run: Gateway housekeeping started (interval=60s)
+2026-07-09 01:07:11,765 INFO gateway.run: kanban dispatcher: holding singleton dispatcher lock (/root/.hermes/kanban/.dispatcher.lock)
+2026-07-09 01:07:16,765 INFO gateway.run: kanban dispatcher: embedded in gateway (interval=60.0s)
+2026-07-09 01:07:43,963 INFO gateway.run: inbound message: platform=whatsapp user=Keynar chat=87441725743196@lid msg='Salut' reply_to_id=None reply_to_text=''
+2026-07-09 01:07:52,191 INFO gateway.run: response ready: platform=whatsapp chat=87441725743196@lid time=8.2s api_calls=1 response=33 chars
+2026-07-09 01:07:52,217 INFO gateway.platforms.base: [Whatsapp] Sending response (33 chars) to 87441725743196@lid
+2026-07-09 01:08:31,286 INFO gateway.run: inbound message: platform=whatsapp user=Keynar chat=87441725743196@lid msg='Quel est le salaire des développeur Discord ?' reply_to_id=None reply_to_text=''
+2026-07-09 01:09:09,150 INFO gateway.run: response ready: platform=whatsapp chat=87441725743196@lid time=37.9s api_calls=6 response=780 chars
+2026-07-09 01:09:09,187 INFO gateway.platforms.base: [Whatsapp] Sending response (780 chars) to 87441725743196@lid
+2026-07-09 02:13:16,011 INFO gateway.run: Agent cache idle-TTL evict: session=agent:main:whatsapp:dm:33773649236 (idle=3847s)
+2026-07-09 02:13:16,013 INFO gateway.run: Agent cache idle sweep: evicted 1 agent(s)
+2026-07-11 00:10:16,286 INFO gateway.run: Starting Hermes Gateway...
+2026-07-11 00:10:16,286 INFO gateway.run: Session storage: /root/.hermes/sessions
+2026-07-11 00:10:16,287 INFO gateway.run: Agent budget: max_iterations=150 (agent.max_turns from config.yaml, or HERMES_MAX_ITERATIONS from .env, or default 90)
+2026-07-11 00:10:16,287 INFO gateway.run: Secret redaction: ENABLED (tool output, logs, and chat responses are scrubbed before delivery)
+2026-07-11 00:10:16,304 INFO gateway.run: Connecting to whatsapp...
+2026-07-11 00:10:16,312 WARNING hermes_plugins.whatsapp_platform.adapter: [Whatsapp] WhatsApp is enabled but not paired (no creds.json at /root/.hermes/platforms/whatsapp/session/creds.json). Run `hermes whatsapp` to pair, or remove WHATSAPP_ENABLED from your .env to disable.
+2026-07-11 00:10:16,315 WARNING gateway.run: ✗ whatsapp failed to connect
+2026-07-11 00:10:16,317 ERROR gateway.run: Gateway hit a non-retryable startup conflict: whatsapp: WhatsApp enabled but not paired — run `hermes whatsapp` to pair.
+2026-07-11 00:10:16,319 ERROR gateway.run: Gateway exiting cleanly: whatsapp: WhatsApp enabled but not paired — run `hermes whatsapp` to pair.

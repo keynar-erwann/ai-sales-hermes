@@ -1,0 +1,1 @@
+{"pid": 29075, "kind": "hermes-gateway", "argv": ["/usr/local/lib/hermes-agent/venv/bin/hermes", "gateway"], "start_time": 10554659, "scope": "whatsapp-session", "identity_hash": "597c068eb9414bb5", "metadata": {"platform": "whatsapp"}, "updated_at": "2026-07-09T01:07:06.194116+00:00"}

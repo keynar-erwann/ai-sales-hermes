@@ -1,0 +1,37 @@
+# python3 hunter_client.py account
+{
+  "account": {
+    "calls": {
+      "_deprecation_notice": "Sums the searches and the verifications, giving an unprecise look of the available requests",
+      "available": 75,
+      "used": 0
+    },
+    "email": "ndoumekeynar@gmail.com",
+    "first_name": "Keynar",
+    "last_name": "NDOUME",
+    "plan_level": 0,
+    "plan_name": "Free",
+    "requests": {
+      "credits": {
+        "available": 50.0,
+        "remaining": 50.0,
+        "used": 0
+      },
+      "searches": {
+        "available": 50,
+        "used": 0
+      },
+      "verifications": {
+        "available": 100,
+        "used": 0
+      }
+    },
+    "reset_date": "2026-08-04",
+    "team_id": 6970751
+  },
+  "checked_at": "2026-07-12T01:45:58.017814+00:00",
+  "http_status": 200,
+  "ok": true,
+  "operation": "account",
+  "request": {}
+}

@@ -1,0 +1,256 @@
+2026-07-07 20:52:21,043 WARNING agent.auxiliary_client: Auxiliary: marking openrouter unhealthy for 60s (payment / credit error). Subsequent auxiliary calls will skip it until 20:53:21.
+2026-07-07 20:52:21,048 WARNING agent.auxiliary_client: Auxiliary Nous client unavailable: no Nous authentication found (run: hermes auth).
+2026-07-07 20:52:21,048 WARNING agent.auxiliary_client: Auxiliary: marking nous unhealthy for 60s (payment / credit error). Subsequent auxiliary calls will skip it until 20:53:21.
+2026-07-07 21:01:10,929 WARNING agent.auxiliary_client: Auxiliary: marking openrouter unhealthy for 60s (payment / credit error). Subsequent auxiliary calls will skip it until 21:02:10.
+2026-07-07 21:01:10,933 WARNING agent.auxiliary_client: Auxiliary Nous client unavailable: no Nous authentication found (run: hermes auth).
+2026-07-07 21:01:10,933 WARNING agent.auxiliary_client: Auxiliary: marking nous unhealthy for 60s (payment / credit error). Subsequent auxiliary calls will skip it until 21:02:10.
+2026-07-07 21:02:10,211 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:10,213 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:11,538 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:11,540 WARNING tools.registry: check_fn check_computer_use_requirements returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:11,560 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:11,562 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:11,562 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:13,977 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,162 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,162 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,162 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,210 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,210 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,211 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,220 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,222 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-07 21:02:14,227 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:24,953 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:24,954 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:26,317 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:26,343 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:26,346 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:26,346 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,478 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,650 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,651 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,652 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,669 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,669 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,670 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,680 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,681 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-08 23:36:27,686 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:05,415 WARNING hermes.security_audit: Security posture audit found 2 issue(s) — review your deployment:
+2026-07-09 01:07:05,415 WARNING hermes.security_audit:   [security 1/2] Running as ROOT. The agent's terminal/file tools execute with full root privileges — a single prompt-injection or exposed endpoint is a full host compromise. Run Hermes as an unprivileged user (or in a sandboxed terminal backend / container with a non-root user).
+2026-07-09 01:07:05,415 WARNING hermes.security_audit:   [security 2/2] SSH password authentication is ENABLED (default — no explicit directive). Password auth is brute-forceable and dangerous on an internet-facing box. Set 'PasswordAuthentication no' in sshd_config and use key-based auth.
+2026-07-09 01:07:45,514 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:45,517 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:46,294 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:46,366 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:46,368 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:46,368 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-09 01:07:47,200 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:14,057 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:14,058 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:15,421 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:15,442 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:15,444 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:15,444 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,359 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,492 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,492 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,492 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,511 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,511 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,513 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,522 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,524 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-10 22:50:16,530 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:10:15,636 WARNING hermes.security_audit: Security posture audit found 2 issue(s) — review your deployment:
+2026-07-11 00:10:15,636 WARNING hermes.security_audit:   [security 1/2] Running as ROOT. The agent's terminal/file tools execute with full root privileges — a single prompt-injection or exposed endpoint is a full host compromise. Run Hermes as an unprivileged user (or in a sandboxed terminal backend / container with a non-root user).
+2026-07-11 00:10:15,636 WARNING hermes.security_audit:   [security 2/2] SSH password authentication is ENABLED (default — no explicit directive). Password auth is brute-forceable and dangerous on an internet-facing box. Set 'PasswordAuthentication no' in sshd_config and use key-based auth.
+2026-07-11 00:10:16,312 WARNING hermes_plugins.whatsapp_platform.adapter: [Whatsapp] WhatsApp is enabled but not paired (no creds.json at /root/.hermes/platforms/whatsapp/session/creds.json). Run `hermes whatsapp` to pair, or remove WHATSAPP_ENABLED from your .env to disable.
+2026-07-11 00:10:16,315 WARNING gateway.run: ✗ whatsapp failed to connect
+2026-07-11 00:10:16,317 ERROR gateway.run: Gateway hit a non-retryable startup conflict: whatsapp: WhatsApp enabled but not paired — run `hermes whatsapp` to pair.
+2026-07-11 00:10:16,319 ERROR gateway.run: Gateway exiting cleanly: whatsapp: WhatsApp enabled but not paired — run `hermes whatsapp` to pair.
+2026-07-11 00:31:21,102 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:21,103 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:22,877 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:22,899 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:22,901 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:22,901 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,796 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,926 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,926 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,926 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,953 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,953 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,954 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,972 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,975 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:23,984 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:51,241 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:51,242 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:52,962 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:52,982 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:52,984 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:52,984 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,907 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,916 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,916 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,917 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,932 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,932 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,933 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,943 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,944 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-11 00:31:53,950 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:55,707 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:55,708 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:57,315 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:57,337 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:57,338 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:57,339 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,228 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,349 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,349 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,349 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,370 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,370 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,371 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,386 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,388 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 00:47:58,397 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:22,869 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:22,870 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:24,412 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:24,433 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:24,435 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:24,436 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,339 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,350 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,351 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,351 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,369 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,369 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,370 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,386 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,388 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:23:25,396 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:26:18,736 WARNING [20260712_012322_06041f] agent.tool_executor: Tool terminal returned error (60.12s): {"output": "", "exit_code": -1, "error": "BLOCKED: User denied this command. The user has NOT consented to this action. Do NOT retry this command, do NOT rephrase it, and do NOT attempt the same outco
+2026-07-12 01:32:39,414 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-12 01:32:39,417 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-12 01:32:40,204 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:32:40,232 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 01:32:40,235 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 01:32:40,235 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 01:32:41,212 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-12 01:35:38,330 WARNING [20260712_012322_06041f] agent.tool_executor: Tool patch returned error (0.00s): {"error": "Cross-profile write blocked by soft guard: /root/.hermes/profiles/ai-sales/skills/ai-sales/lead-enrichment/scripts/hunter_client.py belongs to Hermes profile 'ai-sales', but the agent is ru
+2026-07-12 01:36:53,319 WARNING [20260712_012322_06041f] agent.tool_executor: Tool terminal returned error (60.12s): {"output": "", "exit_code": -1, "error": "BLOCKED: User denied this command. The user has NOT consented to this action. Do NOT retry this command, do NOT rephrase it, and do NOT attempt the same outco
+2026-07-12 02:01:04,229 WARNING [20260712_012322_06041f] agent.tool_executor: Tool skill_manage returned error (0.00s): {"success": false, "error": "YAML frontmatter parse error: mapping values are not allowed here\n  in \"<unicode string>\", line 3, column 100:\n     ... acts as an AI sales organization: prospect disc
+2026-07-12 23:44:55,245 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:55,246 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:56,775 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:56,796 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:56,798 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:56,798 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,677 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,792 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,793 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,793 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,808 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,808 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,809 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,820 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,821 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:44:57,827 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:21,778 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:21,780 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,098 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,118 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,119 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,119 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,987 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,996 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,996 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:23,996 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:24,011 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:24,011 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:24,012 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:24,022 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:24,024 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-12 23:49:24,031 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:02:53,681 WARNING [20260712_234921_325b34] agent.tool_executor: Tool skill_manage returned error (0.02s): {"success": false, "error": "Refusing background curator patch for skill 'ai-sales-company': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKILL.md, o
+2026-07-13 00:19:21,971 WARNING [20260712_234921_325b34] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'ai-sales-company': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKILL.md, o
+2026-07-13 00:25:40,232 WARNING [20260712_234921_325b34] agent.tool_executor: Tool execute_code returned error (0.05s): {"status": "error", "output": "\n--- stderr ---\n  File \"/tmp/hermes_sandbox_7ftyk3w5/script.py\", line 237\n    - La majorité des sites ne donne pas de décideur nominatif fiable ; Hunter.io n'a donc
+2026-07-13 00:26:13,443 WARNING [20260712_234921_325b34] agent.tool_executor: Tool execute_code returned error (0.06s): {"status": "error", "output": "\n--- stderr ---\n  File \"/tmp/hermes_sandbox_ag3v_c7e/script.py\", line 195\n    - La majorité des sites ne donne pas de décideur nominatif fiable ; Hunter.io n'a donc
+2026-07-13 00:32:04,453 WARNING [20260712_234921_325b34] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'ai-sales-company': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKILL.md, o
+2026-07-13 00:45:28,002 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,003 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,294 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,663 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,665 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,665 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,763 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,874 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,875 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,875 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,888 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,888 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,889 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,901 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,903 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:45:28,909 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 00:47:25,384 WARNING [20260713_004527_e3b38d] agent.tool_executor: Tool terminal returned error (0.09s): {"output": "ls: cannot access '.hermes_history': No such file or directory", "exit_code": 2, "error": null}
+2026-07-13 00:48:13,326 WARNING [20260713_004527_e3b38d] agent.tool_executor: Tool skill_manage returned error (0.03s): {"success": false, "error": "Skill 'software-development:plan' not found in active profile 'default'. Use skills_list() to see available skills."}
+2026-07-13 00:48:17,046 WARNING [20260713_004527_e3b38d] agent.tool_executor: Tool write_file returned error (0.00s): {"error": "Background review denied non-whitelisted tool: write_file. Only memory/skill tools are allowed."}
+2026-07-13 14:02:28,736 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:28,737 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:29,447 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:29,824 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:29,827 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:29,827 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:29,928 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,047 WARNING tools.registry: check_fn check_discord_tool_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,048 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,048 WARNING tools.registry: check_fn _check_feishu returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,060 WARNING tools.registry: check_fn _check_yuanbao returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,060 WARNING tools.registry: check_fn _check_ha_available returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,061 WARNING tools.registry: check_fn _check_spotify_available returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,071 WARNING tools.registry: check_fn check_video_generation_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,072 WARNING tools.registry: check_fn _check_xai_video_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 14:02:30,079 WARNING tools.registry: check_fn check_x_search_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 14:05:14,105 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (0.09s): {"output": "ls: cannot access '/root/.hermes_history': No such file or directory", "exit_code": 2, "error": null}
+2026-07-13 14:06:06,819 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (0.43s): {"output": "usage: hermes profile [-h]\n                      {list,use,create,delete,describe,show,alias,rename,export,import,install,update,info}\n                      ...\nhermes profile: error: a
+2026-07-13 14:32:12,215 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (0.89s): {"output": "✓ Set gateway.slack.webhook_url = https://hooks.slack.com/services/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 in /root/.hermes/profiles/ai-sales/config.yaml\n✗ Gateway service is not
+2026-07-13 14:32:18,623 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (0.43s): {"output": "usage: hermes gateway [-h] [--accept-hooks]\n                      {run,start,stop,restart,status,install,uninstall,list,setup,migrate-legacy,enroll}\n                      ...\nhermes gat
+2026-07-13 14:32:24,152 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.00s): {"success": false, "error": "Refusing background curator write_file for bundled skill 'hermes-agent'."}
+2026-07-13 17:26:41,049 WARNING [20260713_140228_c72981] agent.tool_executor: Tool search_files returned error (0.03s): {"total_count": 0, "error": "Search failed: rg: regex parse error:\n    (?:*)\n       ^\nerror: repetition operator missing expression"}
+2026-07-13 17:34:54,725 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.00s): {"success": false, "error": "Invalid category 'ai-sales/engagement'. Use lowercase letters, numbers, hyphens, dots, and underscores. Categories must be a single directory name."}
+2026-07-13 17:34:56,655 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "A skill named 'message-personalization' already exists at /root/.hermes/skills/sales/message-personalization."}
+2026-07-13 18:16:39,484 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.02s): {"success": false, "error": "Skill 'sales:message-personalization' not found in active profile 'default'. Use skills_list() to see available skills."}
+2026-07-13 18:16:42,465 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'message-personalization': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKIL
+2026-07-13 18:26:51,150 WARNING [20260713_140228_c72981] agent.tool_executor: Tool memory returned error (0.00s): {"success": false, "error": "Memory at 1,136/1,375 chars. Adding this entry (419 chars) would exceed the limit. Consolidate now: use 'replace' to merge overlapping entries into shorter ones or 'remove
+2026-07-13 18:39:37,288 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (81.83s): {"output": "[Command interrupted]", "exit_code": 130, "error": null}
+2026-07-13 18:41:22,658 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (60.20s): {"output": "[Command timed out after 60s]", "exit_code": 124, "error": null}
+2026-07-13 19:07:48,374 WARNING tools.registry: check_fn _browser_cdp_check returned False; dependent tools will be unavailable this turn
+2026-07-13 19:07:48,375 WARNING tools.registry: check_fn _browser_dialog_check returned False; dependent tools will be unavailable this turn
+2026-07-13 19:07:48,386 WARNING tools.registry: check_fn check_close_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 19:07:48,424 WARNING tools.registry: check_fn _check_kanban_mode returned False; dependent tools will be unavailable this turn
+2026-07-13 19:07:48,426 WARNING tools.registry: check_fn _check_kanban_orchestrator_mode returned False; dependent tools will be unavailable this turn
+2026-07-13 19:07:48,426 WARNING tools.registry: check_fn check_read_terminal_requirements returned False; dependent tools will be unavailable this turn
+2026-07-13 19:07:48,462 WARNING tools.registry: check_fn check_web_api_key returned False; dependent tools will be unavailable this turn
+2026-07-13 19:08:42,165 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.02s): {"success": false, "error": "Skill 'sales:email-sequencing' not found in active profile 'default'. Use skills_list() to see available skills."}
+2026-07-13 19:08:44,584 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'email-sequencing': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKILL.md, o
+2026-07-13 19:18:54,620 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (60.10s): {"output": "", "exit_code": -1, "error": "BLOCKED: User denied this command. The user has NOT consented to this action. Do NOT retry this command, do NOT rephrase it, and do NOT attempt the same outco
+2026-07-13 19:35:34,467 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'email-sequencing': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKILL.md, o
+2026-07-13 19:46:31,578 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (25.16s): {"output": "[Command interrupted]", "exit_code": 130, "error": null}
+2026-07-13 19:52:15,424 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.08s): {"success": false, "error": "Skill 'sales:message-personalization' not found in active profile 'default'. Use skills_list() to see available skills."}
+2026-07-13 19:52:18,577 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'message-personalization': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKIL
+2026-07-13 19:53:08,455 WARNING [20260713_140228_c72981] agent.tool_executor: Tool memory returned error (0.00s): {"success": false, "error": "Memory at 1,214/1,375 chars. Adding this entry (710 chars) would exceed the limit. Consolidate now: use 'replace' to merge overlapping entries into shorter ones or 'remove
+2026-07-13 19:53:10,228 WARNING [20260713_140228_c72981] agent.tool_executor: Tool memory returned error (0.00s): {"success": false, "error": "Replacement would put memory at 1,416/1,375 chars. Shorten the new content, or 'remove' other stale or less important entries to make room (see current_entries below), the
+2026-07-13 20:21:33,705 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (1.00s): {"output": "error: externally-managed-environment\n\n× This environment is externally managed\n╰─> To install Python packages system-wide, try apt install\n    python3-xyz, where xyz is the package yo
+2026-07-13 20:21:35,250 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (0.33s): {"output": "The virtual environment was not created successfully because ensurepip is not\navailable.  On Debian/Ubuntu systems, you need to install the python3-venv\npackage using the following comma
+2026-07-13 20:21:54,496 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (0.30s): {"output": "Traceback (most recent call last):\n  File \"/tmp/hermes-verify-slack-logic.py\", line 5, in <module>\n    with patch('slack_sdk.WebClient') as mock_client:\n         ~~~~~^^^^^^^^^^^^^^^^
+2026-07-13 20:22:00,302 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.06s): {"success": false, "error": "Skill 'sales:message-personalization' not found in active profile 'default'. Use skills_list() to see available skills."}
+2026-07-13 20:22:04,001 WARNING [20260713_140228_c72981] agent.tool_executor: Tool skill_manage returned error (0.01s): {"success": false, "error": "Refusing background curator patch for skill 'message-personalization': the current SKILL.md content has not been loaded in this review turn. Call skill_view(name) for SKIL
+2026-07-13 20:41:31,545 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (60.21s): {"output": "hint: Using 'master' as the name for the initial branch. This default branch name\nhint: will change to \"main\" in Git 3.0. To configure the initial branch name\nhint: to use in all of yo
+2026-07-13 20:47:07,706 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (60.35s): {"output": "[master (root-commit) c19f641] feat: initial commit of AI Sales Agent with secure gitignore\n 16746 files changed, 3447931 insertions(+)\n create mode 100644 .ai_completion/.code_contribut
+2026-07-13 20:55:05,693 WARNING [20260713_140228_c72981] agent.tool_executor: Tool terminal returned error (60.20s): {"output": "", "exit_code": -1, "error": "BLOCKED: User denied this command. The user has NOT consented to this action. Do NOT retry this command, do NOT rephrase it, and do NOT attempt the same outco

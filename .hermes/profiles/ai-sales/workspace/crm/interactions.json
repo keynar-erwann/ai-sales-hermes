@@ -1,0 +1,182 @@
+[
+  {
+    "interaction_id": "int_e329e6200c12",
+    "account_id": "acct_eidfbat-wordpress-com",
+    "contact_id": "cont_c-lestine_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.55 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_0360ae1fba25",
+    "account_id": "acct_salonhanna-fr",
+    "contact_id": "cont_salon-hanna_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.55 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_53b089f58698",
+    "account_id": "acct_beauty-zen-fr",
+    "contact_id": "cont_beauty-zen_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.55 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_adf1e39cb463",
+    "account_id": "acct_loungecut-fr",
+    "contact_id": "cont_lounge-cut_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.55 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_0513d69c30a8",
+    "account_id": "acct_altea-coiffure-institut-com",
+    "contact_id": "cont_altea_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.55 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_c9efd5dfa307",
+    "account_id": "acct_deshira-fr",
+    "contact_id": "cont_deshira_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.55 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_c511f9e72a18",
+    "account_id": "acct_coiffurejacquesduboeuf-com",
+    "contact_id": "cont_salon-jacques-duboeuf_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.52 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_57a370a542c0",
+    "account_id": "acct_mh-concept-co",
+    "contact_id": "cont_mh-coiffure_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.52 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_fc63b876c11c",
+    "account_id": "acct_confidences-prestige-coiffure-lyon6-fr",
+    "contact_id": "cont_confidences-prestige-international_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.52 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_7226637daae0",
+    "account_id": "acct_camillealbane-com",
+    "contact_id": "cont_camille-albane_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.52 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_7bd3e15a9eeb",
+    "account_id": "acct_modshair-com",
+    "contact_id": "cont_mod-s-hair_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.48 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_6fb2e447c00a",
+    "account_id": "acct_biocoiff-com",
+    "contact_id": "cont_biocoiff_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.46 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_eae5728c7fbc",
+    "account_id": "acct_salon-mathis-com",
+    "contact_id": "cont_mathis_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.44 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_fa8fd5b81af2",
+    "account_id": "acct_salons-couleursgaia-com",
+    "contact_id": "cont_couleurs-ga-a_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.35 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_a4fdd29f1a8d",
+    "account_id": "acct_franckprovost-com",
+    "contact_id": "cont_franck-provost_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.29 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_241bcd7b91c2",
+    "account_id": "acct_boucleaboucle-com",
+    "contact_id": "cont_boucle-boucle_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.24 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_0b66c003e82b",
+    "account_id": "acct_nuancescoiffureparis-fr",
+    "contact_id": "cont_nuances-coiffure_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.2 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_112df29aded8",
+    "account_id": "acct_mamacosy-fr",
+    "contact_id": "cont_mama-cosy_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.17 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_84630b13f761",
+    "account_id": "acct_leila-coiffure-paris-com",
+    "contact_id": "cont_leila-coiffure_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.17 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  },
+  {
+    "interaction_id": "int_8b7b1f40c44e",
+    "account_id": "acct_intermedecoiffure-fr",
+    "contact_id": "cont_intermede-coiffure_role",
+    "type": "crm_import",
+    "summary": "Lead importé depuis le run Wella avec score 4.14 et statut email not_found.",
+    "source": "/root/.hermes/profiles/ai-sales/workspace/prospect-runs/2026-07-12-wella-professionals-fr/discovery.json",
+    "created_at": "2026-07-13T00:29:58.468113+00:00"
+  }
+]
