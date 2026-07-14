@@ -1,64 +1,149 @@
+# Ignore everything by default, then re-allow only the public agent package.
+*
 
-# Private/runtime/local files
+# Root public files
+!.gitignore
+!README.md
+!CHALLENGE.md
+!requirements.txt
+!.env.example
+
+# Keep the ai-sales Hermes profile skeleton, not private Hermes runtime
+!.hermes/
+.hermes/*
+!.hermes/profiles/
+.hermes/profiles/*
+!.hermes/profiles/ai-sales/
+.hermes/profiles/ai-sales/*
+!.hermes/profiles/ai-sales/SOUL.md
+!.hermes/profiles/ai-sales/profile.yaml
+
+# Profile cron wrapper needed for daily orchestration setup
+!.hermes/profiles/ai-sales/scripts/
+.hermes/profiles/ai-sales/scripts/*
+!.hermes/profiles/ai-sales/scripts/daily_orchestration_cron.py
+
+# Only ai-sales custom skills, not all bundled Hermes skills
+!.hermes/profiles/ai-sales/skills/
+.hermes/profiles/ai-sales/skills/*
+!.hermes/profiles/ai-sales/skills/ai-sales/
+!.hermes/profiles/ai-sales/skills/ai-sales/**
+
+# Public workspace docs/setup
+!.hermes/profiles/ai-sales/workspace/
+.hermes/profiles/ai-sales/workspace/*
+!.hermes/profiles/ai-sales/workspace/README.md
+!.hermes/profiles/ai-sales/workspace/CHALLENGE.md
+!.hermes/profiles/ai-sales/workspace/requirements.txt
+!.hermes/profiles/ai-sales/workspace/challenge-checklist.md
+!.hermes/profiles/ai-sales/workspace/partner-brief-wella-professionals-fr.md
+
+# Public workspace scripts
+!.hermes/profiles/ai-sales/workspace/scripts/
+!.hermes/profiles/ai-sales/workspace/scripts/**
+
+# Public operating-model docs
+!.hermes/profiles/ai-sales/workspace/company/
+!.hermes/profiles/ai-sales/workspace/company/**
+!.hermes/profiles/ai-sales/workspace/team-1-prospection-intelligence/
+!.hermes/profiles/ai-sales/workspace/team-1-prospection-intelligence/**
+!.hermes/profiles/ai-sales/workspace/team-2-outreach-engagement/
+!.hermes/profiles/ai-sales/workspace/team-2-outreach-engagement/**
+!.hermes/profiles/ai-sales/workspace/team-3-admin-rdv/
+!.hermes/profiles/ai-sales/workspace/team-3-admin-rdv/**
+!.hermes/profiles/ai-sales/workspace/team-4-content-marketing/
+!.hermes/profiles/ai-sales/workspace/team-4-content-marketing/**
+!.hermes/profiles/ai-sales/workspace/team-5-crm-orchestration/
+!.hermes/profiles/ai-sales/workspace/team-5-crm-orchestration/**
+
+# Demo: keep only sanitized reusable demo assets/scripts
+!.hermes/profiles/ai-sales/workspace/demo/
+.hermes/profiles/ai-sales/workspace/demo/*
+!.hermes/profiles/ai-sales/workspace/demo/*.py
+!.hermes/profiles/ai-sales/workspace/demo/runbook.md
+!.hermes/profiles/ai-sales/workspace/demo/generic-company-demo-prompt.md
+
+# Always private / generated / personal
 .env
 .env.*
-.trae/
-.trae-server/
-.hermes/
-.npm/
-.cache/
-.local/
-.config/
-.pki/
-.ssh/
-.cua-driver/
-.ai_completion/
-
-# Python/cache
-venv/
-pycache/
-*.pyc
-.DS_Store
-
-# AI sales private data
-crm/
-review-queue/
-reports/
-pastes/
-logs/
-sessions/
-MEMORY.md
-SOUL.md
-CHALLENGE.md
-
-# Private demo files
-demo/transcript.md
-demo/internal-notes.md
-demo/slack-live-demo-runbook.md
-demo/mailtrap*
-demo/private
-demo/secret
-
-# Secrets / databases
+!.env.example
 *.pem
 *.key
 *.sqlite
 *.db
 *.db-wal
 *.db-shm
+*token*
+*secret*
+*credential*
 
-# Keep only sanitized demo files
-!demo/
-!demo/public-demo-script.md
-!demo/safe-video-runbook.md
-!demo/example-output-redacted.md
+.bash_history
+.bashrc
+.profile
+.gitconfig
+.claude.json
+search.html
+.ssh/
+.config/
+.local/
+.pki/
+.cache/
+.npm/
+.trae/
+.trae-server/
+.cua-driver/
+.cua-driver-rs/
+.ai_completion/
 
-# Keep source directories
-!scripts/
-!scripts/**
-!skills/
-!skills/**
-!docs/
-!docs/**
-!examples/
-!examples/**
+__pycache__/
+*.pyc
+.venv/
+venv/
+**/venv/
+**/.venv/
+.DS_Store
+
+# ai-sales private/generated business state
+.hermes/profiles/ai-sales/.env
+.hermes/profiles/ai-sales/.hermes_history
+.hermes/profiles/ai-sales/config.yaml*
+.hermes/profiles/ai-sales/auth.json
+.hermes/profiles/ai-sales/channel_directory.json
+.hermes/profiles/ai-sales/gateway_state.json
+.hermes/profiles/ai-sales/slack-manifest.json
+.hermes/profiles/ai-sales/state.db*
+.hermes/profiles/ai-sales/verification_evidence.db
+.hermes/profiles/ai-sales/cron/
+.hermes/profiles/ai-sales/logs/
+.hermes/profiles/ai-sales/sessions/
+.hermes/profiles/ai-sales/memories/
+.hermes/profiles/ai-sales/cache/
+.hermes/profiles/ai-sales/lsp/
+.hermes/profiles/ai-sales/backups/
+.hermes/profiles/ai-sales/bin/
+.hermes/profiles/ai-sales/home/
+.hermes/profiles/ai-sales/platforms/
+.hermes/profiles/ai-sales/pairing/
+.hermes/profiles/ai-sales/plans/
+.hermes/profiles/ai-sales/sandboxes/
+
+.hermes/profiles/ai-sales/workspace/.env
+.hermes/profiles/ai-sales/workspace/.hermes/
+.hermes/profiles/ai-sales/workspace/MEMORY.md
+.hermes/profiles/ai-sales/workspace/crm/
+.hermes/profiles/ai-sales/workspace/review-queue/
+.hermes/profiles/ai-sales/workspace/reports/
+.hermes/profiles/ai-sales/workspace/logs/
+.hermes/profiles/ai-sales/workspace/sessions/
+.hermes/profiles/ai-sales/workspace/prospect-runs/
+.hermes/profiles/ai-sales/workspace/outreach-drafts/
+.hermes/profiles/ai-sales/workspace/content-assets/
+.hermes/profiles/ai-sales/workspace/meetings/
+.hermes/profiles/ai-sales/workspace/demo/transcript.md
+.hermes/profiles/ai-sales/workspace/demo/slack-live-demo-runbook.md
+.hermes/profiles/ai-sales/workspace/demo/*private*
+.hermes/profiles/ai-sales/workspace/demo/*secret*
+.hermes/profiles/ai-sales/workspace/demo/mailtrap*
+
+# Accidental root workspace outputs
+/workspace/
