@@ -148,3 +148,89 @@ fg
 hermes --continue
 clear
 hermes 
+hermes -c
+clear
+hermes
+clear
+hermes
+git add .
+git commit -m "Correction"
+git push origin main
+git commit -m "Correction"
+git add .
+git commit m "Correction"
+git commit -m "Correction"
+git push origin main
+git status
+git rm -r --cached .hermes
+git add .gitignore
+git commit --amend --no-edit
+git push --force-with-lease origin main
+clear
+hermes
+clear
+hermes profile list
+hermes profile default
+git push --force-with-lease origin main
+hermes profile use default
+hermes
+hermes gateway run
+clear
+hermes -p ai-sales gateway setup
+hermes profile list
+clear
+hermes -p ai-sales send --list slack
+clear
+hermes -p ai-sales send --list slack
+clear
+hermes gateway stop
+clear
+cd /root/.hermes/profiles/ai-sales/workspace/scripts/
+python3 run_daily.py
+ls -l /root/.hermes/profiles/ai-sales/workspace/review-queue/pending/ls -l /root/.hermes/profiles/ai-sales/workspace/review-queue/pending/
+cd
+python3 /root/.hermes/profiles/ai-sales/workspace/scripts/orchestra_sender.py
+clear
+hermes -p ai-sales
+clear
+hermes -p ai-sales cron run 34e281e67d39
+clear
+hermes -p ai-sales
+clear
+hermes -p ai-sales
+cd .hermes/profiles
+cd ai-sales
+cd memories
+rm MEMORY.md
+rm USER.md
+rm *.md.lock
+clear
+cd
+hermes -p ai-sales
+cd .hermes/profiles
+cd ai-sales
+cd memories
+rm *.md
+ls
+clear
+cd
+hermes -p ai-sales
+clear
+hermes -p ai-sales
+cd .hermes/profiles
+cd memories
+cd ai-sales/memories
+ls
+rm *.md
+rm *.md.lock
+hermes 
+clear
+hermes model
+pm install -g @anthropic-ai/claude-code
+npm install -g @anthropic-ai/claude-code
+claude setup-token
+hermes model
+clear
+hermes
+cd .hermes/profiles/ai-sales/memories
+ls

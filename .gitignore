@@ -1,14 +1,64 @@
-.trae-server/
-.hermes/bin/
-.hermes/node/
-.cache/
-venv/
+
+# Private/runtime/local files
 .env
+.env.*
+.trae/
+.trae-server/
+.hermes/
+.npm/
+.cache/
+.local/
+.config/
+.pki/
+.ssh/
+.cua-driver/
+.ai_completion/
+
+# Python/cache
+venv/
 pycache/
 *.pyc
-.DS_StoreEOF
-.hermes/.hermes_history
-.hermes/state.db
-.hermes/state.db-wal
-.hermes/whatsapp/session/
-.trae
+.DS_Store
+
+# AI sales private data
+crm/
+review-queue/
+reports/
+pastes/
+logs/
+sessions/
+MEMORY.md
+SOUL.md
+CHALLENGE.md
+
+# Private demo files
+demo/transcript.md
+demo/internal-notes.md
+demo/slack-live-demo-runbook.md
+demo/mailtrap*
+demo/private
+demo/secret
+
+# Secrets / databases
+*.pem
+*.key
+*.sqlite
+*.db
+*.db-wal
+*.db-shm
+
+# Keep only sanitized demo files
+!demo/
+!demo/public-demo-script.md
+!demo/safe-video-runbook.md
+!demo/example-output-redacted.md
+
+# Keep source directories
+!scripts/
+!scripts/**
+!skills/
+!skills/**
+!docs/
+!docs/**
+!examples/
+!examples/**
